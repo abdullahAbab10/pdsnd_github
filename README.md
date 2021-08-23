@@ -1,14 +1,18 @@
 
 
-### Feb 2021
+### Date
+Feb 2021
 
 
-### Programming for data science using python
+### Course name 
+Programming for data science using python
 
-### This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+### Description
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
 
 
-### washington.csv
+### Files used 
+washington.csv
 new_york_city.csv
 chicago.csv
 
